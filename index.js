@@ -78,6 +78,11 @@ const apps = [
 		name : 'Relaxer',
 		url: './relaxer-app/',
 		image_path : './relaxer-app/picture.PNG'
+	}, 
+	{
+		name : 'New Year Countdown',
+		url : './newyear-countdown/',
+		image_path : './newyear-countdown/picture.PNG'
 	}
 ];
 
