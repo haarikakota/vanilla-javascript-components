@@ -73,6 +73,11 @@ const apps = [
 		name: 'Lyrics Search',
 		url: './lyrics-search/',
 		image_path : './lyrics-search/picture.PNG'
+	}, 
+	{
+		name : 'Relaxer',
+		url: './relaxer-app/',
+		image_path : './relaxer-app/picture.PNG'
 	}
 ];
 
