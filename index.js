@@ -68,6 +68,11 @@ const apps = [
 		name: 'Typing Game',
 		url: './typing-game/',
 		image_path: './typing-game/picture.PNG',
+	},
+	{
+		name: 'Lyrics Search',
+		url: './lyrics-search/',
+		image_path : './lyrics-search/picture.PNG'
 	}
 ];
 
