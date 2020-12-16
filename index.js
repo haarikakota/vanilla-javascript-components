@@ -6,7 +6,7 @@ const apps = [
 	},
 	{
 		name: 'Custom Video Player',
-		url: './customVideoPlayer',
+		url: './customVideoPlayer/',
 		image_path: './customVideoPlayer/player.PNG',
 	},
 	{
@@ -83,6 +83,16 @@ const apps = [
 		name : 'New Year Countdown',
 		url : './newyear-countdown/',
 		image_path : './newyear-countdown/picture.PNG'
+	},
+	{
+		name : 'Speak Number Guesser',
+		url : './speak-number-guesser',
+		image_path : './speak-number-guesser/picture.PNG'
+	},
+	{
+		name : '10 Richest People',
+		url : './sortable-list/',
+		image_path : './sortable-list/picture.PNG'
 	}
 ];
 
