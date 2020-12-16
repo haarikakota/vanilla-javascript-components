@@ -93,6 +93,11 @@ const apps = [
 		name : '10 Richest People',
 		url : './sortable-list/',
 		image_path : './sortable-list/picture.PNG'
+	}, 
+	{
+		name : 'BreakOut Game',
+		url : './breakout-game/',
+		image_path : './breakout-game/picture.PNG'
 	}
 ];
 
