@@ -103,6 +103,11 @@ const apps = [
 		name : 'Quote Generator',
 		url : './quote-generator/',
 		image_path : './quote-generator/picture.PNG'
+	},
+	{
+		name : 'Infinity Scrolling',
+		url : './infinity-scroll/',
+		image_path : './infinity-scroll/picture.PNG'
 	}
 ];
 
