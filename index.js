@@ -98,6 +98,11 @@ const apps = [
 		name : 'BreakOut Game',
 		url : './breakout-game/',
 		image_path : './breakout-game/picture.PNG'
+	},
+	{
+		name : 'Quote Generator',
+		url : './quote-generator/',
+		image_path : './quote-generator/picture.PNG'
 	}
 ];
 
