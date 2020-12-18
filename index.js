@@ -108,6 +108,11 @@ const apps = [
 		name : 'Infinity Scrolling',
 		url : './infinity-scroll/',
 		image_path : './infinity-scroll/picture.PNG'
+	},
+	{
+		name : 'Picture in Picture',
+		url : './picture-in-picture/',
+		image_path : './picture-in-picture/picture.PNG'
 	}
 ];
 
