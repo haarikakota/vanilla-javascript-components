@@ -113,6 +113,11 @@ const apps = [
 		name : 'Picture in Picture',
 		url : './picture-in-picture/',
 		image_path : './picture-in-picture/picture.PNG'
+	},
+	{
+		name : 'Light Dark Module',
+		url : './light-dark-module/',
+		image_path : './light-dark-module/picture.PNG'
 	}
 ];
 
