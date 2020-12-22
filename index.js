@@ -123,6 +123,11 @@ const apps = [
 		name : 'Animated Template',
 		url : './animated-template/',
 		image_path : './animated-template/animated.gif'
+	},
+	{
+		name : 'Animated Navigation',
+		url : './animated-navigation/',
+		image_path : './animated-navigation/nav.gif'
 	}
 ];
 
