@@ -118,14 +118,20 @@ const apps = [
 		name : 'Light Dark Module',
 		url : './light-dark-module/',
 		image_path : './light-dark-module/picture.PNG'
+	},
+	{
+		name : 'Animated Template',
+		url : './animated-template/',
+		image_path : './animated-template/animated.gif'
 	}
 ];
 
+
 apps.forEach((app) => {
-  let element = `
  
-    <div class="col">
-        <div class="card">
+	let element = `
+    <div class="col" data-aos="fade-up" >
+        <div class="card" data-aos="fade-up">
             <img src="${app.image_path}" class="card-img-top" alt="${app.name}">
             <div class="card-body">
                 <h5 class="card-title">${app.name}</h5>
@@ -135,4 +141,13 @@ apps.forEach((app) => {
     </div>
   `;
   document.getElementById('app-container').insertAdjacentHTML('beforeend', element);
-});
+}
+);
+
+
+AOS.init({
+    delay: 200,
+    duration : 1500,
+    once : false,
+    mirror: false
+  });
