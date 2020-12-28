@@ -129,6 +129,11 @@
             "name": "Animated Navigation",
             "url": "./animated-navigation/",
             "image_path": "./animated-navigation/nav.gif"
+        },
+        {
+            "name": "Bookmark Application",
+            "url": "./bookmark-app/",
+            "image_path": "./bookmark-app/picture.PNG"
         }
     ]
 }
