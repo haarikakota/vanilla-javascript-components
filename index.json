@@ -134,6 +134,11 @@
             "name": "Bookmark Application",
             "url": "./bookmark-app/",
             "image_path": "./bookmark-app/picture.PNG"
+        },
+        {
+            "name" : "Form Validator",
+            "url" : "./form-validation2/",
+            "image_path" : "./form-validation2/picture.PNG"
         }
     ]
 }
