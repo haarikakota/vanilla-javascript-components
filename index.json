@@ -136,9 +136,14 @@
             "image_path": "./bookmark-app/picture.PNG"
         },
         {
-            "name" : "Form Validator",
-            "url" : "./form-validation2/",
-            "image_path" : "./form-validation2/picture.PNG"
+            "name": "Form Validator",
+            "url": "./form-validation2/",
+            "image_path": "./form-validation2/picture.PNG"
+        },
+        {
+            "name": "Rock Paper Scissors",
+            "url": "./rock-paper-scissors/",
+            "image_path": "./rock-paper-scissors/picture.PNG"
         }
     ]
 }
