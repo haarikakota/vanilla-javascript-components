@@ -146,9 +146,14 @@
             "image_path": "./rock-paper-scissors/picture.PNG"
         },
         {
-            "name" : "Nasa API Pictures",
-            "url" : "./nasa-api-pictures/",
-            "image_path" : "./nasa-api-pictures/picture.PNG"
+            "name": "Nasa API Pictures",
+            "url": "./nasa-api-pictures/",
+            "image_path": "./nasa-api-pictures/picture.PNG"
+        },
+        {
+            "name": "Math Sprint Game",
+            "url": "./math-sprint-game/",
+            "image_path": "./math-sprint-game/picture.PNG"
         }
     ]
 }
