@@ -154,6 +154,11 @@
             "name": "Math Sprint Game",
             "url": "./math-sprint-game/",
             "image_path": "./math-sprint-game/picture.PNG"
+        },
+        {
+            "name" : "Course Board",
+            "url" : "./course-board/",
+            "image_path" : "./course-board/picture.PNG"
         }
     ]
 }
