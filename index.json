@@ -156,9 +156,14 @@
             "image_path": "./math-sprint-game/picture.PNG"
         },
         {
-            "name" : "Course Board",
-            "url" : "./course-board/",
-            "image_path" : "./course-board/picture.PNG"
+            "name": "Course Board",
+            "url": "./course-board/",
+            "image_path": "./course-board/picture.PNG"
+        },
+        {
+            "name": "Calculator",
+            "url": "./calculator/",
+            "image_path": "./calculator/picture.PNG"
         }
     ]
 }
