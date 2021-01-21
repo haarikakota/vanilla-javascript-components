@@ -164,6 +164,11 @@
             "name": "Calculator",
             "url": "./calculator/",
             "image_path": "./calculator/picture.PNG"
+        },
+        {
+            "name" : "Splash Page",
+            "url" : "./splash-page-figma/",
+            "image_path" : "./splash-page-figma/picture.PNG"
         }
     ]
 }
