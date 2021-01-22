@@ -166,9 +166,14 @@
             "image_path": "./calculator/picture.PNG"
         },
         {
-            "name" : "Splash Page",
-            "url" : "./splash-page-figma/",
-            "image_path" : "./splash-page-figma/picture.PNG"
+            "name": "Splash Page",
+            "url": "./splash-page-figma/",
+            "image_path": "./splash-page-figma/picture.PNG"
+        },
+        {
+            "name": "Paint Application",
+            "url": "./paint-clone/",
+            "image_path": "./paint-clone/picture.PNG"
         }
     ]
 }
